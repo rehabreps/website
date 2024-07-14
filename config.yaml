@@ -1,20 +1,20 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://www.rehabrepsphysicaltherapy.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Rehab Reps"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
-  images: 
-    - "images/hero-image.png"
+  title: "Rehab Reps"
+  description: "Our mission is to empower you by optimizing movement, restoring function, and promoting pain-free performance to freely participate in the activities you love."
+  images:
+    - "logo.png"
 
-  logo: "arrow-up.png"
+  logo: "logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -28,40 +28,40 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "2593 Mayport Rd, STE 105, Atlantic Beach, Florida, 32233"
+    # - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+     - "rehabreps@outlook.com"
+     - "904.717.2269"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2024 Rehab Reps All Rights Reserved"
 
 menus:
-  main:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
+  # main:
+  #   - name: "Home"
+  #     url: "/#hero"
+  #     weight: 1
 
-    - name: "How we work"
-      url: "/#"
-      weight: 2
+  #   - name: "How we work"
+  #     url: "/#"
+  #     weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
+  #   - name: "Our team"
+  #     url: "/#"
+  #     weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+  #   - name: "Pricing"
+  #     url: "/#"
+  #     weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+  #   - name: "Blog"
+  #     url: "/blog"
+  #     weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "/#"
+    - name: "Book Appointment"
+      url: "https://rehabreps.janeapp.com/"
       weight: 5
       pre: "btn btn-primary text-light"
 

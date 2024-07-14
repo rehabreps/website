@@ -3,37 +3,114 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+    pretitle: "About Me"
+    title: "School and Certifications"
+    text: "Hello, I'm Shelby Stewart, a physical therapist and CrossFit Coach originally from Palm Harbor, FL. I am now a Jacksonville, FL resident and have been a local for the past two years. I am proud to have earned my Bachelor of Science in Applied Physiology and Kinesiology with a focus in Exercise Physiology from the University of Florida. I continued on as a Florida Gator, completing my Doctorate in Physical Therapy in 2022. CrossFit has been a passion of mine for the previous eight years. Starting as an athlete, I transitioned to coaching in 2018. I currently hold my CF-L1 certificate with aspirations to become an L4 Certified CrossFit Coach."
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+    pretitle: "About Me"
+    title: "Career Experience"
+    text: "In my career as a physical therapist, I've gained valuable experience in orthopedics and school-based pediatrics. Recently, I returned to the orthopedic/sports realm and am now the owner and clinician of Rehab Reps Physical Therapy LLC. As an active part of both the fitness and local Jacksonville community, I have continuously been inspired and uplifted. Rehab Reps was founded to give back to these communities by serving and enriching them through education, movement, and unwavering support."
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "About Me"
+    title: "Mission and Goals"
+    text: "My lifelong mission is to empower others through exercise and rehabilitation. I believe everyone deserves the right to control their own health and wellness. Through Rehab Reps, I provide others the tools to build physical resilience and promote longevity. Whether you're passionate about CrossFit, running, tennis, or simply enjoying an active lifestyle with your family - I am here to support you in continuing these pursuits freely. I firmly believe everyone has an accessible avenue towards a long, healthy, and fulfilling life. I am committed to be part of that journey with you."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+# content:
+#   - image: "images/portfolio-ecommerce.png"
+#     # pretitle: "Promote a fitness-forward lifestyle"
+#     title: "Promote a fitness-forward lifestyle"
+#     text: "The ultimate rehab goal is building longevity for a fulfilling and healthy life. Rehab Reps' treatment is built on exercise principles to build physical resilience in our clients. Our interventions always point back to health promotion and return to the activities you love without limitation."
 
-      - label: "Read more"
-        url: "#"
+#     # buttons: 
+#     #   - label: "See live"
+#     #     url: "#"
+
+#     #   - label: "Read more"
+#     #     url: "#"
+
+#   - image: "images/portfolio-ecommerce.png"
+#     pretitle: "Commit to the client"
+#     title: "Commit to the client"
+#     text: "At Rehab Reps, you will have a clinician who is deeply committed to you for life. Your clinician will remain responsive and dedicated to your needs during any rehab or training journey."
+
+#     # buttons: 
+#     #   - label: "See live"
+#     #     url: "#"
+
+#     #   - label: "Read more"
+#     #     url: "#"
+
+#   - image: "images/portfolio-ecommerce.png"
+#     pretitle: "Serve the community"
+#     title: "Serve the community"
+#     text: "As an active part of both the fitness and local Jacksonville community, we have continuously been inspired and uplifted. Rehab Reps was founded to give back by serving and enriching these communities. Our clinic is dedicated to empowering other individuals through education, advocacy, and unwavering support."
+
+#     # buttons: 
+#     #   - label: "See live"
+#     #     url: "#"
+
+#     #   - label: "Read more"
+#     #     url: "#"
+
+#   - image: "images/portfolio-ecommerce.png"
+#     pretitle: "Provide quality care"
+#     title: "Provide quality care"
+#     text: "Our client-centered treatment will address your specific impairments to garner effective results. Rehab Reps' physical therapy care is based on research evidence, clinician expertise, and patient values/preferences to promote the highest standards of quality."
+
+#     # buttons: 
+#     #   - label: "See live"
+#     #     url: "#"
+
+#     #   - label: "Read more"
+#     #     url: "#"
+
+#   - image: "images/portfolio-ecommerce.png"
+#     pretitle: "Thrive in freedom"
+#     title: "Thrive in freedom"
+#     text: "Rehab Reps is a cash-based model to allow freedom for the client as well as the clinician. This physical therapy model helps to remove the barriers, commonly found in the traditional clinic, to maximize collaboration, quality, and empowerment."
+
+#     # buttons: 
+#     #   - label: "See live"
+#     #     url: "#"
+
+#     #   - label: "Read more"
+#     #     url: "#"
+
+# content:
+#   - image: "images/portfolio-ecommerce.png"
+#     pretitle: "Portfolio Service"
+#     title: "We developed an eCommerce website"
+#     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+#     buttons: 
+#       - label: "See live"
+#         url: "#"
+
+#       - label: "Read more"
+#         url: "#"
+
+#   - image: "images/portfolio-ecommerce.png"
+#     pretitle: "Portfolio Service"
+#     title: "We developed an eCommerce website"
+#     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+#     buttons: 
+#       - label: "See live"
+#         url: "#"
+
+#       - label: "Read more"
+#         url: "#"
+
+#   - image: "images/portfolio-ecommerce.png"
+#     pretitle: "Portfolio Service"
+#     title: "We developed an eCommerce website"
+#     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+#     buttons: 
+#       - label: "See live"
+#         url: "#"
+
+#       - label: "Read more"
+#         url: "#"

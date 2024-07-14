@@ -2,7 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
+  title: "Contact Us!"
+# Can't find an appointment that fits your schedule? Don't worry! Email, text, or call us and we will work to find a convenient time for your session.
   image: "images/services-web-development.png"
   button:
     label: "Let's talk"

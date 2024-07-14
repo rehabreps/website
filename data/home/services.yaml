@@ -2,26 +2,80 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Core Values"
+  # text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Promote a fitness-forward lifestyle"
+      text: "The ultimate rehab goal is building longevity for a fulfilling and healthy life. Rehab Reps' treatment is built on exercise principles to build physical resilience in our clients. Our interventions always point back to health promotion and return to the activities you love without limitation."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Serve the community"
+      text: "As an active part of both the fitness and local Jacksonville community, we have continuously been inspired and uplifted. Rehab Reps was founded to give back by serving and enriching these communities. Our clinic is dedicated to empowering other individuals through education, advocacy, and unwavering support.                         "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Provide quality care"
+      text: "Our client-centered treatment will address your specific impairments to garner effective results. Rehab Reps' physical therapy care is based on research evidence, clinician expertise, and patient values/preferences to promote the highest standards of quality."
       button:
         label: "Learn more"
         url: "#"
+
+    # - image: "images/services-web-development.png"
+    #   title: "Commit to the client"
+    #   text: "At Rehab Reps, you will have a clinician who is deeply committed to you for life. Your clinician will remain responsive and dedicated to your needs during any rehab or training journey."
+    #   button:
+    #     label: "Learn more"
+    #     url: "#"
+
+    # - image: "images/services-web-development.png"
+    #   title: "Thrive in freedom"
+    #   text: "Rehab Reps is a cash-based model to allow freedom for the client as well as the clinician. This physical therapy model helps to remove the barriers, commonly found in the traditional clinic, to maximize collaboration, quality, and empowerment."
+    #   button:
+    #     label: "Learn more"
+    #     url: "#"
+
+    # - # image: "images/services-web-development.png"
+    #   title: ""
+    #   text: ""
+    #   button:
+    #     label: "Learn more"
+    #     url: "#"
+
+    # - # image: "images/services-web-development.png"
+    #   title: ""
+    #   text: ""
+    #   button:
+    #     label: "Learn more"
+    #     url: "#"
+
+
+# content:
+#   title: "Our main services"
+#   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+#   cards:
+#     - image: "images/services-web-development.png"
+#       title: "Web development"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+#       button:
+#         label: "Learn more"
+#         url: "#"
+
+#     - image: "images/services-web-development.png"
+#       title: "Web development"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+#       button:
+#         label: "Learn more"
+#         url: "#"
+
+#     - image: "images/services-web-development.png"
+#       title: "Web development"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+#       button:
+#         label: "Learn more"
+#         url: "#"
