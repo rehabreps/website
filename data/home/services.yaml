@@ -5,7 +5,7 @@ content:
   title: "Core Values"
   # text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
   cards:
-    - image: "images/services-web-development.png"
+    - image: "images/rr-logo.png"
       title: "Promote a fitness-forward lifestyle"
       text: "The ultimate rehab goal is building longevity for a fulfilling and healthy life. Rehab Reps' treatment is built on exercise principles to build physical resilience in our clients. Our interventions always point back to health promotion and return to the activities you love without limitation."
       button:

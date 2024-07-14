@@ -12,9 +12,9 @@ params:
   title: "Rehab Reps"
   description: "Our mission is to empower you by optimizing movement, restoring function, and promoting pain-free performance to freely participate in the activities you love."
   images:
-    - "logo.png"
+    - "images/rr-logo.png"
 
-  logo: "logo.png"
+  logo: "images/rr-logo.png"
 
   favicons:
     themeColor: "#FFFFFF"

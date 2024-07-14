@@ -6,6 +6,7 @@ content:
   # text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
   title: "Our Mission"
   text: "is to empower you by optimizing movement, restoring function, and promoting pain-free performance to freely participate in the activities you love."
+  logo: "images/rr-logo.png"
 
   buttonPrimary:
     label: "About Us"
